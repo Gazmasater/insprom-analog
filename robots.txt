@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://176.126.99.27/sitemap.xml
